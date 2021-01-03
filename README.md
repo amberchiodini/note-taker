@@ -13,6 +13,7 @@
 I created an application that can be used to write, save, and delete notes using Express.js. 
 
 ## First Look:
+![note_taker.gif](https://user-images.githubusercontent.com/69092983/103481626-d1364400-4da1-11eb-833b-556654825e37.gif)
 
 ## Technologies used: 
 * [NodeJS](https://nodejs.org/en/)
