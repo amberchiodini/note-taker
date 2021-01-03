@@ -24,6 +24,7 @@ You must first run ```npm install``` into your CLI to install all dependencies. 
 To deploy onto [Heroku](https://www.heroku.com/), set-up an account and then run ```heroku login```, ```heroku create```, and ```git push heroku main``` into your CLI. 
 
 ## Links: 
+* [Deployed on Heroku](https://rocky-depths-73826.herokuapp.com/)
 
 ## License: 
 MIT License
