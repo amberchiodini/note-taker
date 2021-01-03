@@ -57,7 +57,5 @@ module.exports = app => {
                 return true;
             });
         }
-
     });
-
 }
